@@ -1,3 +1,5 @@
+#Backend for "pond"; facilitates frog communication and society
+
 import random
 import Frog
 from browser import document
