@@ -1,3 +1,5 @@
+#Frog class
+
 import random
 
 class frog:
